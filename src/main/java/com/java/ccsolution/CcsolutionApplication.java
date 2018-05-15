@@ -6,7 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class CcsolutionApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(CcsolutionApplication.class, args);
+	public static void main(String[] arg) {
+		SpringApplication.run(CcsolutionApplication.class, arg);
 	}
 }
